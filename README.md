@@ -11,6 +11,7 @@ A seguir estão descritos todos os programas .abap presentes no repositório, co
 ---
 
 ## 1. **Z944620LISTA_CLIENTES_AUTO**
+📄 [Clique aqui para acessar o arquivo do programa](https://github.com/simplicioJoao/sap-abap/blob/main/src/z944620lista_clientes_auto.prog.abap)
 
 **Objetivo:**  
 Listar os registros da tabela `z944620cli_auto` criada no Dicionário de Dados, apresentando:
@@ -33,6 +34,7 @@ Listar os registros da tabela `z944620cli_auto` criada no Dicionário de Dados, 
 ---
 
 ## 2. **Z944620BATCH_CLIENTES_AUTO**
+📄 [Clique aqui para acessar o arquivo do programa](https://github.com/simplicioJoao/sap-abap/blob/main/src/z944620batch_clientes_auto.prog.abap)
 
 **Objetivo:**  
 Executar processamento automático de clientes via BATCH INPUT (BDC), realizando atualizações ou cadastros automáticos.
@@ -50,6 +52,7 @@ Executar processamento automático de clientes via BATCH INPUT (BDC), realizando
 ---
 
 ## 3. **Z944620ALV_CLIENTES_INVALIDOS**
+📄 [Clique aqui para acessar o arquivo do programa](https://github.com/simplicioJoao/sap-abap/blob/main/src/z944620alv_clientes_invalidos.prog.abap)
 
 **Objetivo:**  
 Gerar um relatório ALV listando clientes inválidos com base em critérios definidos (ex.: CPF/CNPJ incorretos, dados inconsistentes, etc.).
@@ -66,6 +69,8 @@ Gerar um relatório ALV listando clientes inválidos com base em critérios defi
 ---
 
 ## 4. **Z944620CONTROLEPEDIDOSCOMPRAS**
+📄 [Clique aqui para acessar o arquivo do programa](https://github.com/simplicioJoao/sap-abap/blob/main/src/z944620controlepedidoscompras.prog.abap)
+- Este programa foi desenvolvido com base nesta [Especificação Funcional](https://github.com/simplicioJoao/sap-abap/blob/main/Desenvolvimento%20de%20Relat%C3%B3rio%20de%20Controle%20de%20Pedidos%20de%20Compras.pdf)
 
 **Objetivo:**  
 Exibir e controlar informações relacionadas a Pedidos de Compra (MM – Materials Management).
